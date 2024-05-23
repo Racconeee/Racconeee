@@ -15,17 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2EFE9A&text=Welcome%20to&fontSize=30&height=30" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2EFE9A&text=Welcome%20to&fontSize=50&height=50" />
 <p>
 
-  <a href="https://racconworld.com"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BFFF00&text=Racconworld.com&fontSize=20&height=20"/>
+  <a href="https://racconworld.com"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BFFF00&text=Racconworld.com&fontSize=30&height=30"/>
 </p>
-<a href="https://racconworld.com"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A9F5A9&text=개발자%20BackEnd-Github&fontSize=25&height=25" />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Racconeee&show_icons=true&theme=radical)
+<a href="https://racconworld.com"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A9F5A9&text=개발자%20BackEnd-Github&fontSize=40&height=40" />
 
 
-<h3 align="center"> 기술 스택</h3>
+
+<h3 align="center"> 🏋️‍♀️ Tech Stack 🏋️‍♀️</h3>
 <hr>
 
 <div align=center> 
@@ -46,7 +45,7 @@ Here are some ideas to get you started:
   
 </div>
 
-<h3 align="center"> 공부중</h3>
+<h3 align="center">⛹️ Studying ⛹️</h3>
 <hr>
 <div align=center> 
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
@@ -54,7 +53,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 </div>
 
-<h3 align="center"> 공부 저장소</h3>
+<h3 align="center"> 🐳 Contact 🐳</h3>
 <hr>
 <p align=center> 
   <a herf="노션링크 넣기"><img src="https://img.shields.io/badge/-Notion-000000">&nbsp
