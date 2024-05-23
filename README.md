@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://racconworld.com"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2EFE9A&text=Welcome%20to&fontSize=40&height=400" />
+<a href="https://racconworld.com"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2EFE9A&text=Welcome%20to&fontSize=23&height=23" />
 <p>
 
-<a href="https://racconworld.com"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BFFF00&text=Racconworld.com의BackEnd&fontSize=40" />
+<a href="https://racconworld.com"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BFFF00&text=Racconworld.com의BackEnd&fontSize=15&height=15" />
 </p>
-<a href="https://racconworld.com"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A9F5A9&text=BackEnd-Github&fontSize=40" />
+<a href="https://racconworld.com"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A9F5A9&text=BackEnd-Github&fontSize=19&height=20" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Racconeee&show_icons=true&theme=radical)
 
