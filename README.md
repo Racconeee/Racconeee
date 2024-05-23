@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Racconeee/Racconeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align=center> 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2EFE9A&text=Welcome%20to&fontSize=50&height=50" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2EFE9A&text=👋Welcome%20to&fontSize=50&height=50" />
   <p>
     <a href="https://racconworld.com"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BFFF00&text=Racconworld.com&fontSize=30&height=30"/>
   </p>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center"> 🏋️‍♀️ &nbsp&nbsp Tech Stack &nbsp&nbsp 🏋️‍♀️</h3>
------
+---
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -43,8 +43,9 @@ Here are some ideas to get you started:
 </div>
 
 
+
 <h3 align="center">⛹️ &nbsp&nbsp Studying &nbsp&nbsp ⛹️</h3>
------
+---
 <div align=center> 
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -52,8 +53,9 @@ Here are some ideas to get you started:
 </div>
 
 
+
 <h3 align="center"> 🐳 &nbsp&nbsp Contact &nbsp&nbsp 🐳</h3>
------
+---
 <p align=center> 
   <a herf="노션링크 넣기"><img src="https://img.shields.io/badge/-Notion-000000">&nbsp
   <a herf="https://raccon.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-D1B2FF">&nbsp
