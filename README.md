@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-
-
 <h3 align="center"> 🏋️‍♀️ &nbsp&nbsp Tech Stack &nbsp&nbsp 🏋️‍♀️</h3>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -44,7 +42,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 <br>
-<br>
 
 <hr>
 <h3 align="center">⛹️ &nbsp&nbsp Studying &nbsp&nbsp ⛹️</h3>
@@ -54,10 +51,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 </div>
 <br>
-<br>
-<br>
-
-
 
 <hr>
 <h3 align="center"> 🐳 &nbsp&nbsp Contact &nbsp&nbsp 🐳</h3>
@@ -67,9 +60,6 @@ Here are some ideas to get you started:
   <a herf="mailto:raccon6614@gmail.com"><img src="https://img.shields.io/badge/-Gmail-BDBDBD">&nbsp
 </p>
 <br>
-
-
-
 
 <div align=center> 
   <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Racconeee&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
