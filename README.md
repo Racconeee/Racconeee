@@ -41,8 +41,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
-sssss
-<h3 align="center">⛹️ Studying ⛹️</h3>
+
+<h3 align="center">⛹️  Studying  ⛹️</h3>
 <hr>
 <div align=center> 
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
@@ -50,7 +50,7 @@ sssss
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 </div>
 
-<h3 align="center"> 🐳 Contact 🐳</h3>
+<h3 align="center"> 🐳&nbspContact&nbsp🐳</h3>
 <hr>
 <p align=center> 
   <a herf="노션링크 넣기"><img src="https://img.shields.io/badge/-Notion-000000">&nbsp
