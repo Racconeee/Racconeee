@@ -14,26 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2EFE9A&text=Welcome%20to&fontSize=50&height=50" />
-<p>
-
-  <a href="https://racconworld.com"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BFFF00&text=Racconworld.com&fontSize=30&height=30"/>
-</p>
-<a href="https://racconworld.com"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A9F5A9&text=개발자%20BackEnd-Github&fontSize=40&height=40" />
+<div align=center> 
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2EFE9A&text=Welcome%20to&fontSize=50&height=50" />
+  <p>
+    <a href="https://racconworld.com"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BFFF00&text=Racconworld.com&fontSize=30&height=30"/>
+  </p>
+  <a href="https://racconworld.com"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A9F5A9&text=개발자%20BackEnd-Github&fontSize=40&height=40" />
+</div>
 
 
 
 <h3 align="center"> 🏋️‍♀️ Tech Stack 🏋️‍♀️</h3>
 <hr>
-
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-  
 </div>
 
 <div align=center> 
@@ -42,9 +40,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  
 </div>
-
+sssss
 <h3 align="center">⛹️ Studying ⛹️</h3>
 <hr>
 <div align=center> 
