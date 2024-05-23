@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2EFE9A&text=Welcome%20to&fontSize=30&height=30" />
 <p>
 
-<a href="https://racconworld.com"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BFFF00&text=visit%20%20->%20%20Racconworld.com&fontSize=20&height=20" />
+<a href="https://racconworld.com"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BFFF00&text=Racconworld.com%20%20%20%20visit<-&fontSize=20&height=20" />
 </p>
-<a href="https://racconworld.com"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A9F5A9&text=개발자&20BackEnd-Github&fontSize=25&height=25" />
+<a href="https://racconworld.com"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A9F5A9&text=개발자%20BackEnd-Github&fontSize=25&height=25" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Racconeee&show_icons=true&theme=radical)
 
