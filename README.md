@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center"> 🏋️‍♀️ &nbsp&nbsp Tech Stack &nbsp&nbsp 🏋️‍♀️</h3>
----
+<hr>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">⛹️ &nbsp&nbsp Studying &nbsp&nbsp ⛹️</h3>
----
+<hr>
 <div align=center> 
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -55,13 +55,15 @@ Here are some ideas to get you started:
 
 
 <h3 align="center"> 🐳 &nbsp&nbsp Contact &nbsp&nbsp 🐳</h3>
----
+<hr>
 <p align=center> 
   <a herf="노션링크 넣기"><img src="https://img.shields.io/badge/-Notion-000000">&nbsp
   <a herf="https://raccon.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-D1B2FF">&nbsp
   <a herf="mailto:raccon6614@gmail.com"><img src="https://img.shields.io/badge/-Gmail-BDBDBD">&nbsp
 </p>
 
-<div>
+
+
+<div align=center> 
   <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Racconeee&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
