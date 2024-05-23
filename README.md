@@ -50,9 +50,8 @@ Here are some ideas to get you started:
 <h3 align="center"> 공부 저장소</h3>
 <hr>
 <div align=center> 
-  <img src="https://img.shields.io/badge/Notion=for-the-badge&logo=Notion&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <a herf="https://raccon.tistory.com/"><img src="https://img.shields.io/badge/-Notion_brightgree">&nbsp
+  <a herf="mailto:raccon6614@gmail.com"><img src="https://img.shields.io/badge/-Gmail_critical">&nbsp
 </div>
 
 <div>
