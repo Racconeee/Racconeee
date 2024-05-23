@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center"> 🏋️‍♀️ Tech Stack 🏋️‍♀️</h3>
+<h3 align="center"> 🏋️‍♀️   Tech Stack   🏋️‍♀️</h3>
 <hr>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 </div>
 
-<h3 align="center"> 🐳&nbspContact&nbsp🐳</h3>
+<h3 align="center"> 🐳 &nbsp Contact&nbsp🐳</h3>
 <hr>
 <p align=center> 
   <a herf="노션링크 넣기"><img src="https://img.shields.io/badge/-Notion-000000">&nbsp
