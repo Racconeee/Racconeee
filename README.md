@@ -47,6 +47,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 </div>
 
+<h3 align="center"> 공부 저장소</h3>
+<hr>
+<div align=center> 
+  <img src="https://img.shields.io/badge/Notion=for-the-badge&logo=Notion&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+</div>
+
 <div>
   <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Racconeee&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
