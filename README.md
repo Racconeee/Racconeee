@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 <h3 align="center"> 공부 저장소</h3>
 <hr>
 <p align=center> 
-  <a herf="노션링크 넣기"><img src="https://img.shields.io/badge/-Notion-#000000">&nbsp
+  <a herf="노션링크 넣기"><img src="https://img.shields.io/badge/-Notion-000000">&nbsp
   <a herf="https://raccon.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-D1B2FF">&nbsp
-  <a herf="mailto:raccon6614@gmail.com"><img src="https://img.shields.io/badge/-Gmail-#BDBDBD">&nbsp
+  <a herf="mailto:raccon6614@gmail.com"><img src="https://img.shields.io/badge/-Gmail-BDBDBD">&nbsp
 </p>
 
 <div>
